@@ -1,8 +1,6 @@
----
 # Age Calculator App
 
 This is a simple age calculator app that calculates your age in years, months, and days based on your date of birth.
----
 
 ### Features:
 
