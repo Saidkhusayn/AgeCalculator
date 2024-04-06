@@ -11,6 +11,10 @@ This is a simple age calculator app that calculates your age in years, months, a
 
 ### Example Usage:
 
-DateOfBirth: 1990-01-01
+Date Of Birth: 1990-01-01
 Age: 34 years, 2 months, 6 days (as of 2024-04-06)
+
+#### Note:
+
+This app calculates chronological age only
 
